@@ -129,7 +129,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496707
+            "stars": 497125
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2024-07-29T14:21:23Z",
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84085
+            "stars": 84092
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29832
+            "stars": 29837
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:57:47.119Z",
+    "last_updated": "2026-08-18T07:48:05.418Z",
     "original_repository": "yesky12/awesome-coder-resources",
     "original_repository_sha": "155bf9db6e09ec3a968ac6b2f3e3b40cccc9d670",
     "enhanced_repository": "enhansome/enhansome-coder-resources",
