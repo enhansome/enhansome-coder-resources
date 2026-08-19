@@ -330,7 +330,7 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 > Inception是一个开源的Mysql自动化工具，具有SQL审核、执行、回滚等实用的功能，由国内大神基于mysql源码开发，可以很明确的，详细的，准确的审核Mysql的SQL语句，工作模式与Mysql完全相同，可以直接使用mysql客户端来连接。但遗憾的是2年前已停止更新，不过兼容大部分的mysql版本，仍然是开源SQL审核工具的翘楚。
 
 > Data Transfer Project 旨在创建一个开源的服务到服务数据可移植平台，以便其网站用户和其他人可以轻松将数据从一个平台迁移到另一个平台。它提供了一个通用框架和生态系统，可接受服务提供商的贡献，以实现数据无缝传输到服务之间。
-> <https://github.com/google/data-transfer-project> ⭐ 3,618 | 🐛 33 | 🌐 Java | 📅 2026-08-18
+> <https://github.com/google/data-transfer-project> ⭐ 3,618 | 🐛 34 | 🌐 Java | 📅 2026-08-18
 
 ##### 数据库迁移/同步
 
@@ -431,20 +431,20 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 > 【JavaGuide: Java学习+面试指南】
 >
 > \----------Snailclimb/JavaGuide: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-> <https://github.com/Snailclimb/JavaGuide> ⭐ 157,884 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18
-> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 157,884 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18
+> <https://github.com/Snailclimb/JavaGuide> ⭐ 157,881 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18
+> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 157,881 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18
 
 > 【awesome-java】
 >
 > \----------akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language.
-> <https://github.com/akullpp/awesome-java> ⭐ 48,780 | 🐛 10 | 📅 2026-08-17
+> <https://github.com/akullpp/awesome-java> ⭐ 48,783 | 🐛 10 | 📅 2026-08-17
 > 作者将JAVA中那些最常用的第三方库按照分类整理成了一个列表。包含Ancients(古老，但常用的)，Bean Mapping，Build，Bytecode Manipulation，Code Analysis，Command-line Argument Parsers，Configuration，Continuous Integration，CSV，Database等等，简直是一本jiava第三方库大全，如果你对项目中应该使用哪一个库不确定，或希望选择几个库来做比较，都可以到awesome-java上进行参考。
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,545 | 🐛 102 | 📅 2026-08-18: Curated list of awesome lists(6w star+)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18: Curated list of awesome lists(6w star+)
 
 * [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
 
-* [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,838 | 🐛 8 | 📅 2026-08-18：An awesome Data Science repository to learn and apply for real world problems.
+* [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,839 | 🐛 8 | 📅 2026-08-18：An awesome Data Science repository to learn and apply for real world problems.
 
 * [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,532 | 🐛 2 | 📅 2026-07-31: A curated list of awesome big data frameworks, ressources and other awesomeness.
 
@@ -497,7 +497,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 ##### 微服务
 
 > Nacos是一个易于使用的平台，旨在实现动态服务发现，配置和服务管理。它可以帮助开发者轻松构建云本机应用程序和微服务平台。
-> <https://github.com/alibaba/nacos> ⭐ 33,280 | 🐛 185 | 🌐 Java | 📅 2026-08-19
+> <https://github.com/alibaba/nacos> ⭐ 33,280 | 🐛 184 | 🌐 Java | 📅 2026-08-19
 
 #### tools-代码生成器
 
@@ -546,7 +546,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 > 它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
 
 > Graal 是一个用 Java 编写的新的 JVM 即时编译器，集成到 HotSpot 虚拟机，侧重性能和语言互操作性。Graal 为 Java 代码提供性能优势，这得益于方法内联、流转对象分配和推理执行等新技术，从而可以实现高性能的脚本语言引擎。
-> <https://github.com/oracle/graal> ⭐ 21,663 | 🐛 849 | 🌐 Java | 📅 2026-08-18
+> <https://github.com/oracle/graal> ⭐ 21,665 | 🐛 850 | 🌐 Java | 📅 2026-08-19
 
 #### JVM语言
 
@@ -737,7 +737,7 @@ HanLP是由一系列模型与算法组成的Java工具包，目标是普及自�
 
 coderiver 中文名 河码，是一个为程序员和设计师提供项目协作的平台，类似程序员客栈，但主要目的是方便各细分领域人才之间技术交流，共同成长，多人协作完成项目。暂不涉及金钱交易。
 
-。。<https://github.com/kdn251/interviews> ⭐ 65,215 | 🐛 121 | 🌐 Java | 📅 2025-05-12 Star 30614
+。。<https://github.com/kdn251/interviews> ⭐ 65,218 | 🐛 121 | 🌐 Java | 📅 2025-05-12 Star 30614
 
 Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会碰到的问题以及答案。
 
@@ -745,16 +745,16 @@ Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会�
 。。一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端，由于没有上线，只能在微信开发工具中测试运行
 。。<https://github.com/crossoverJie/JCSprout> ⭐ 26,858 | 🐛 45 | 🌐 Java | 📅 2024-05-21 Star 17084
 这是一个还处于萌芽阶段的 Java 核心知识库。分为常用集合、Java多线程、JVM、分布式相关、常用框架等内容
-。。<https://github.com/Snailclimb/JavaGuide> ⭐ 157,884 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18 Star 14726
+。。<https://github.com/Snailclimb/JavaGuide> ⭐ 157,881 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-18 Star 14726
 这是一份Java学习指南，涵盖大部分Java程序员所需要掌握的核心知识
 
-。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,587 | 🐛 137 | 🌐 Java | 📅 2026-08-17 Star 42081
+。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,588 | 🐛 137 | 🌐 Java | 📅 2026-08-17 Star 42081
 Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。
-。。<https://github.com/macrozheng/mall> ⭐ 84,573 | 🐛 19 | 🌐 Java | 📅 2026-05-14 Star 3249
+。。<https://github.com/macrozheng/mall> ⭐ 84,575 | 🐛 17 | 🌐 Java | 📅 2026-05-14 Star 3249
 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 
 。。<https://github.com/b3log/symphony> Star 8931
 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。分为社区版和商业版
-。。<https://github.com/eugenp/tutorials> ⭐ 37,324 | 🐛 29 | 🌐 Java | 📅 2026-08-18 Star 10447
+。。<https://github.com/eugenp/tutorials> ⭐ 37,325 | 🐛 29 | 🌐 Java | 📅 2026-08-18 Star 10447
 该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
 。。Arthas旨在帮助开发人员解决Java应用程序的生产问题，无需修改代码或重新启动服务器。有了Arthas，你就可以在不重新启动JVM或需要额外的代码更改的情况下实时地对问题进行故障排除。
 
@@ -871,7 +871,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ## 教程
 
-* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,153 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,157 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
 
 \==================================
 
