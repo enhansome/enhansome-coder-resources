@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499396
+                "stars": 499521
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84183
+                "stars": 84186
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T06:20:28Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29857
+                "stars": 29859
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14540
+                "stars": 14541
               }
             },
             {
@@ -99,13 +99,108 @@
           "description": "【JavaGuide: Java学习+面试指南】----------Snailclimb/JavaGuide: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide\n【awesome-java】----------akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language. https://github.com/akullpp/awesome-java 作者将JAVA中那些最常用的第三方库按照分类整理成了一个列表。包含Ancients(古老，但常用的)，Bean Mapping，Build，Bytecode Manipulation，Code Analysis，Command-line Argument Parsers，Configuration，Continuous Integration，CSV，Database等等，简直是一本jiava第三方库大全，如果你对项目中应该使用哪一个库不确定，或希望选择几个库来做比较，都可以到awesome-java上进行参考。",
           "node_type": "group",
           "title": "awesome"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/JeffLi1993/springboot-learning-example",
+              "description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81057842,
+                "language": "Java",
+                "last_commit": "2023-12-03T12:33:47Z",
+                "owner": "JeffLi1993",
+                "repo": "springboot-learning-example",
+                "stars": 16559
+              }
+            }
+          ],
+          "description": "【99-Problems】----------shekhargulati/99-problems: This is an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett. https://github.com/shekhargulati/99-problems 99-Problems是一个很有意思的GitHub项目，它对三种不同的语言Java 8,Scala和Haskell分别提出了99个问题，让你通过使用特定语言编程来提供一个最优的解决方案。 这些问题分为不同的难度等级，用*表示，一个星号表示在15分钟内解决，2个星号可能需要30-69分钟，而最难的3个星号，则需要更长时间（90分钟左右），如果你能在限定的时间内使用JAVA8的特性解决所有的问题，那说明你对JAVA8的掌握程度已经非常牢固了。如果你没办法解决所有问题也没关系，你可以查看作者提供的代码示例，这也是你学习JAVA8很好的途径。",
+          "node_type": "group",
+          "title": "学习案例"
         }
       ],
       "title": "3）Java相关"
+    },
+    {
+      "description": "==============================================\n//整理到opensource分类，2019-1-25 13:58:19 。。https://github.com/cachecats/coderiver\ncoderiver 中文名 河码，是一个为程序员和设计师提供项目协作的平台，类似程序员客栈，但主要目的是方便各细分领域人才之间技术交流，共同成长，多人协作完成项目。暂不涉及金钱交易。\nJava工程师面试指南，里面涵盖几乎所有软件工程师面试时会碰到的问题以及答案。\n。。Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。通过它，只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里微服务解决方案，通过阿里中间件来迅速搭建分布式应用系统。 。。一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端，由于没有上线，只能在微信开发工具中测试运行 。。https://github.com/crossoverJie/JCSprout Star 17084 这是一个还处于萌芽阶段的 Java 核心知识库。分为常用集合、Java多线程、JVM、分布式相关、常用框架等内容 。。https://github.com/Snailclimb/JavaGuide Star 14726 这是一份Java学习指南，涵盖大部分Java程序员所需要掌握的核心知识\n==============================================\n==============================================",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "。。https://github.com/kdn251/interviews",
+          "description": "Star 30614",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81975372,
+            "language": "Java",
+            "last_commit": "2025-05-12T12:56:04Z",
+            "owner": "kdn251",
+            "repo": "interviews",
+            "stars": 65227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "。。https://github.com/iluwatar/java-design-patterns",
+          "description": "Star 42081 Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。 。。https://github.com/macrozheng/mall Star 3249 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 。。https://github.com/b3log/symphony Star 8931 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。分为社区版和商业版 。。https://github.com/eugenp/tutorials Star 10447 该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。 。。Arthas旨在帮助开发人员解决Java应用程序的生产问题，无需修改代码或重新启动服务器。有了Arthas，你就可以在不重新启动JVM或需要额外的代码更改的情况下实时地对问题进行故障排除。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22790488,
+            "language": "Java",
+            "last_commit": "2026-08-17T22:42:48Z",
+            "owner": "iluwatar",
+            "repo": "java-design-patterns",
+            "stars": 94610
+          }
+        }
+      ],
+      "title": "22待整理"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "面试",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97280276,
+                "language": null,
+                "last_commit": "2020-01-01T05:12:40Z",
+                "owner": "yesky12",
+                "repo": "awesome-coder-resources",
+                "stars": 60
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 97280276,
+            "language": null,
+            "last_commit": "2020-01-01T05:12:40Z",
+            "owner": "yesky12",
+            "repo": "awesome-coder-resources",
+            "stars": 60
+          },
+          "title": "面试"
+        }
+      ],
+      "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:21.752Z",
+    "last_updated": "2026-08-24T14:49:26.964Z",
     "original_repository": "yesky12/awesome-coder-resources",
     "original_repository_id": 97280276,
     "original_repository_sha": "155bf9db6e09ec3a968ac6b2f3e3b40cccc9d670",
