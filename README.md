@@ -431,16 +431,16 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 > 【JavaGuide: Java学习+面试指南】
 >
 > \----------Snailclimb/JavaGuide: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-> <https://github.com/Snailclimb/JavaGuide> ⭐ 158,009 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24
-> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 158,009 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24
+> <https://github.com/Snailclimb/JavaGuide> ⭐ 158,010 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24
+> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 158,010 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24
 
 > 【awesome-java】
 >
 > \----------akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language.
-> <https://github.com/akullpp/awesome-java> ⭐ 48,840 | 🐛 3 | 📅 2026-08-24
+> <https://github.com/akullpp/awesome-java> ⭐ 48,839 | 🐛 3 | 📅 2026-08-24
 > 作者将JAVA中那些最常用的第三方库按照分类整理成了一个列表。包含Ancients(古老，但常用的)，Bean Mapping，Build，Bytecode Manipulation，Code Analysis，Command-line Argument Parsers，Configuration，Continuous Integration，CSV，Database等等，简直是一本jiava第三方库大全，如果你对项目中应该使用哪一个库不确定，或希望选择几个库来做比较，都可以到awesome-java上进行参考。
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,708 | 🐛 106 | 📅 2026-08-21: Curated list of awesome lists(6w star+)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,725 | 🐛 106 | 📅 2026-08-21: Curated list of awesome lists(6w star+)
 
 * [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
 
@@ -497,7 +497,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 ##### 微服务
 
 > Nacos是一个易于使用的平台，旨在实现动态服务发现，配置和服务管理。它可以帮助开发者轻松构建云本机应用程序和微服务平台。
-> <https://github.com/alibaba/nacos> ⭐ 33,296 | 🐛 185 | 🌐 Java | 📅 2026-08-24
+> <https://github.com/alibaba/nacos> ⭐ 33,298 | 🐛 184 | 🌐 Java | 📅 2026-08-25
 
 #### tools-代码生成器
 
@@ -546,7 +546,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 > 它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
 
 > Graal 是一个用 Java 编写的新的 JVM 即时编译器，集成到 HotSpot 虚拟机，侧重性能和语言互操作性。Graal 为 Java 代码提供性能优势，这得益于方法内联、流转对象分配和推理执行等新技术，从而可以实现高性能的脚本语言引擎。
-> <https://github.com/oracle/graal> ⭐ 21,671 | 🐛 847 | 🌐 Java | 📅 2026-08-25
+> <https://github.com/oracle/graal> ⭐ 21,670 | 🐛 847 | 🌐 Java | 📅 2026-08-25
 
 #### JVM语言
 
@@ -745,10 +745,10 @@ Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会�
 。。一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端，由于没有上线，只能在微信开发工具中测试运行
 。。<https://github.com/crossoverJie/JCSprout> ⭐ 26,853 | 🐛 45 | 🌐 Java | 📅 2024-05-21 Star 17084
 这是一个还处于萌芽阶段的 Java 核心知识库。分为常用集合、Java多线程、JVM、分布式相关、常用框架等内容
-。。<https://github.com/Snailclimb/JavaGuide> ⭐ 158,009 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24 Star 14726
+。。<https://github.com/Snailclimb/JavaGuide> ⭐ 158,010 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-24 Star 14726
 这是一份Java学习指南，涵盖大部分Java程序员所需要掌握的核心知识
 
-。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,613 | 🐛 133 | 🌐 Java | 📅 2026-08-25 Star 42081
+。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,615 | 🐛 133 | 🌐 Java | 📅 2026-08-25 Star 42081
 Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。
 。。<https://github.com/macrozheng/mall> ⭐ 84,617 | 🐛 16 | 🌐 Java | 📅 2026-05-14 Star 3249
 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 
@@ -871,7 +871,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ## 教程
 
-* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,402 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,405 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
 
 \==================================
 
