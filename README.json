@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499521
+                "stars": 499708
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84186
+                "stars": 84200
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14541
+                "stars": 14542
               }
             },
             {
@@ -104,7 +104,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/JeffLi1993/springboot-learning-example",
+              "title": "JeffLi1993/springboot-learning-example",
               "description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。",
               "children": [],
               "repo_info": {
@@ -114,7 +114,7 @@
                 "last_commit": "2023-12-03T12:33:47Z",
                 "owner": "JeffLi1993",
                 "repo": "springboot-learning-example",
-                "stars": 16559
+                "stars": 16558
               }
             }
           ],
@@ -140,7 +140,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65227
+            "stars": 65225
           }
         },
         {
@@ -152,10 +152,10 @@
             "archived": false,
             "id": 22790488,
             "language": "Java",
-            "last_commit": "2026-08-17T22:42:48Z",
+            "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94610
+            "stars": 94613
           }
         }
       ],
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:26.964Z",
+    "last_updated": "2026-08-25T06:41:17.119Z",
     "original_repository": "yesky12/awesome-coder-resources",
     "original_repository_id": 97280276,
     "original_repository_sha": "155bf9db6e09ec3a968ac6b2f3e3b40cccc9d670",
