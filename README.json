@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500361
+                "stars": 500460
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84222
+                "stars": 84225
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 21515044,
                 "language": null,
-                "last_commit": "2026-08-26T17:06:22Z",
+                "last_commit": "2026-08-27T15:40:38Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
                 "stars": 29876
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14594
+                "stars": 14597
               }
             },
             {
@@ -140,7 +140,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65228
+            "stars": 65229
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:37.793Z",
+    "last_updated": "2026-08-27T18:13:57.867Z",
     "original_repository_info": {
       "archived": false,
       "id": 97280276,
