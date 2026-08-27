@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500019
+                "stars": 500361
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84209
+                "stars": 84222
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 21515044,
                 "language": null,
-                "last_commit": "2026-08-22T06:20:28Z",
+                "last_commit": "2026-08-26T17:06:22Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29869
+                "stars": 29876
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14577
+                "stars": 14594
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2023-12-03T12:33:47Z",
                 "owner": "JeffLi1993",
                 "repo": "springboot-learning-example",
-                "stars": 16558
+                "stars": 16557
               }
             }
           ],
@@ -140,7 +140,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65226
+            "stars": 65228
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94622
+            "stars": 94627
           }
         }
       ],
@@ -200,9 +200,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:53:43.796Z",
-    "original_repository": "yesky12/awesome-coder-resources",
-    "original_repository_id": 97280276,
+    "last_updated": "2026-08-27T11:29:37.793Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 97280276,
+      "language": null,
+      "last_commit": "2020-01-01T05:12:40Z",
+      "owner": "yesky12",
+      "repo": "awesome-coder-resources",
+      "stars": 60
+    },
     "original_repository_sha": "155bf9db6e09ec3a968ac6b2f3e3b40cccc9d670",
     "enhanced_repository": "enhansome/enhansome-coder-resources",
     "enhanced_repository_description": null,
