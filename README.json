@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500460
-              }
+                "stars": 500811
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84225
-              }
+                "stars": 84237
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-27T15:40:38Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29876
-              }
+                "stars": 29886
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14597
-              }
+                "stars": 14599
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2022-12-17T05:12:03Z",
                 "owner": "lyfeyaj",
                 "repo": "awesome-resources",
-                "stars": 1742
-              }
+                "stars": 1743
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "weiweifan",
                 "repo": "Big-Data-Resources",
                 "stars": 1414
-              }
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             }
           ],
           "description": "【JavaGuide: Java学习+面试指南】----------Snailclimb/JavaGuide: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://github.com/Snailclimb/JavaGuide\n【awesome-java】----------akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language. https://github.com/akullpp/awesome-java 作者将JAVA中那些最常用的第三方库按照分类整理成了一个列表。包含Ancients(古老，但常用的)，Bean Mapping，Build，Bytecode Manipulation，Code Analysis，Command-line Argument Parsers，Configuration，Continuous Integration，CSV，Database等等，简直是一本jiava第三方库大全，如果你对项目中应该使用哪一个库不确定，或希望选择几个库来做比较，都可以到awesome-java上进行参考。",
@@ -114,8 +120,9 @@
                 "last_commit": "2023-12-03T12:33:47Z",
                 "owner": "JeffLi1993",
                 "repo": "springboot-learning-example",
-                "stars": 16557
-              }
+                "stars": 16555
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             }
           ],
           "description": "【99-Problems】----------shekhargulati/99-problems: This is an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett. https://github.com/shekhargulati/99-problems 99-Problems是一个很有意思的GitHub项目，它对三种不同的语言Java 8,Scala和Haskell分别提出了99个问题，让你通过使用特定语言编程来提供一个最优的解决方案。 这些问题分为不同的难度等级，用*表示，一个星号表示在15分钟内解决，2个星号可能需要30-69分钟，而最难的3个星号，则需要更长时间（90分钟左右），如果你能在限定的时间内使用JAVA8的特性解决所有的问题，那说明你对JAVA8的掌握程度已经非常牢固了。如果你没办法解决所有问题也没关系，你可以查看作者提供的代码示例，这也是你学习JAVA8很好的途径。",
@@ -140,8 +147,9 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65229
-          }
+            "stars": 65230
+          },
+          "first_seen": "2026-08-28T19:23:19.561Z"
         },
         {
           "node_type": "item",
@@ -155,8 +163,9 @@
             "last_commit": "2026-08-25T04:52:07Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94627
-          }
+            "stars": 94633
+          },
+          "first_seen": "2026-08-28T19:23:19.561Z"
         }
       ],
       "title": "22待整理"
@@ -179,7 +188,8 @@
                 "owner": "yesky12",
                 "repo": "awesome-coder-resources",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T19:23:19.561Z"
             }
           ],
           "description": null,
@@ -193,14 +203,15 @@
             "repo": "awesome-coder-resources",
             "stars": 60
           },
-          "title": "面试"
+          "title": "面试",
+          "first_seen": "2026-08-28T19:23:19.561Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:13:57.867Z",
+    "last_updated": "2026-08-28T19:23:19.561Z",
     "original_repository_info": {
       "archived": false,
       "id": 97280276,
