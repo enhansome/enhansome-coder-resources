@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500811
+                "stars": 500897,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             },
@@ -28,12 +39,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+                "homepage": "https://doppler.com",
                 "id": 47018239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-29T14:21:23Z",
+                "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84237
+                "stars": 84242,
+                "topics": [
+                  "android-interview-questions",
+                  "angularjs-interview-questions",
+                  "awesome",
+                  "awesome-list",
+                  "awesomeness",
+                  "interview-practice",
+                  "interview-questions",
+                  "interviewing",
+                  "javascript",
+                  "javascript-interview-questions",
+                  "list",
+                  "python-interview-questions",
+                  "rails-interview",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             },
@@ -44,12 +75,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+                "homepage": null,
                 "id": 21515044,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:40:38Z",
+                "open_issues": 8,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29886
+                "stars": 29887,
+                "topics": [
+                  "analytics",
+                  "awesome-list",
+                  "data-mining",
+                  "data-science",
+                  "data-scientists",
+                  "data-visualization",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             },
@@ -60,12 +107,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+                "homepage": "https://github.com/onurakpolat/awesome-bigdata",
                 "id": 21500692,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-31T12:51:12Z",
+                "open_issues": 4,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14599
+                "stars": 14600,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bigdata",
+                  "data",
+                  "data-analytics",
+                  "data-science",
+                  "data-stream",
+                  "data-visualization",
+                  "data-warehouse",
+                  "database",
+                  "distributed-database",
+                  "series-database",
+                  "stream-processing",
+                  "streaming-data",
+                  "visualize-data"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             },
@@ -76,12 +144,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome resources for coding and learning: open source projects, websites, books e.g.",
+                "homepage": null,
                 "id": 29522382,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-12-17T05:12:03Z",
+                "open_issues": 10,
                 "owner": "lyfeyaj",
                 "repo": "awesome-resources",
-                "stars": 1743
+                "stars": 1743,
+                "topics": [
+                  "algorithm",
+                  "android",
+                  "awesome",
+                  "books",
+                  "ios",
+                  "javascript",
+                  "learning",
+                  "nodejs",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             },
@@ -92,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "大数据/数据挖掘/推荐系统/机器学习相关资源",
+                "homepage": null,
                 "id": 17800548,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-14T03:37:14Z",
+                "open_issues": 1,
                 "owner": "weiweifan",
                 "repo": "Big-Data-Resources",
-                "stars": 1414
+                "stars": 1414,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             }
@@ -115,12 +203,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。",
+                "homepage": null,
                 "id": 81057842,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-03T12:33:47Z",
+                "open_issues": 54,
                 "owner": "JeffLi1993",
                 "repo": "springboot-learning-example",
-                "stars": 16555
+                "stars": 16555,
+                "topics": [
+                  "dubbo",
+                  "elasticsearch",
+                  "jpa",
+                  "mybatis",
+                  "redis",
+                  "springboot",
+                  "webflux"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             }
@@ -142,12 +243,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything you need to know to get the job.",
+            "homepage": "https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g?view_as=subscriber",
             "id": 81975372,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-05-12T12:56:04Z",
+            "open_issues": 121,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65230
+            "stars": 65229,
+            "topics": [
+              "algorithm",
+              "algorithm-challenges",
+              "algorithm-competitions",
+              "algorithms",
+              "coding-challenge",
+              "coding-challenges",
+              "coding-interview",
+              "coding-interviews",
+              "interview",
+              "interview-practice",
+              "interview-prep",
+              "interview-preparation",
+              "interview-questions",
+              "interviews",
+              "java",
+              "leetcode",
+              "leetcode-java",
+              "leetcode-questions",
+              "leetcode-solutions",
+              "technical-coding-interview"
+            ]
           },
           "first_seen": "2026-08-28T19:23:19.561Z"
         },
@@ -158,12 +285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design patterns implemented in Java",
+            "homepage": "https://java-design-patterns.com",
             "id": 22790488,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:52:07Z",
+            "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94633
+            "stars": 94632,
+            "topics": [
+              "awesome-list",
+              "design-patterns",
+              "hacktoberfest",
+              "java",
+              "principles",
+              "snippets",
+              "snippets-collection",
+              "snippets-library"
+            ]
           },
           "first_seen": "2026-08-28T19:23:19.561Z"
         }
@@ -182,12 +323,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
+                "homepage": null,
                 "id": 97280276,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-01T05:12:40Z",
+                "open_issues": 1,
                 "owner": "yesky12",
                 "repo": "awesome-coder-resources",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "backend",
+                  "big-data",
+                  "bigdata",
+                  "books",
+                  "frontend",
+                  "interview",
+                  "java",
+                  "progamming",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T19:23:19.561Z"
             }
@@ -196,12 +354,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
+            "homepage": null,
             "id": 97280276,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-01T05:12:40Z",
+            "open_issues": 1,
             "owner": "yesky12",
             "repo": "awesome-coder-resources",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "backend",
+              "big-data",
+              "bigdata",
+              "books",
+              "frontend",
+              "interview",
+              "java",
+              "progamming",
+              "resources"
+            ]
           },
           "title": "面试",
           "first_seen": "2026-08-28T19:23:19.561Z"
@@ -211,15 +386,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:23:19.561Z",
+    "last_updated": "2026-08-29T05:02:44.355Z",
     "original_repository_info": {
       "archived": false,
+      "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
+      "homepage": null,
       "id": 97280276,
       "language": null,
+      "license": null,
       "last_commit": "2020-01-01T05:12:40Z",
+      "open_issues": 1,
       "owner": "yesky12",
       "repo": "awesome-coder-resources",
-      "stars": 60
+      "stars": 60,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "backend",
+        "big-data",
+        "bigdata",
+        "books",
+        "frontend",
+        "interview",
+        "java",
+        "progamming",
+        "resources"
+      ]
     },
     "original_repository_sha": "155bf9db6e09ec3a968ac6b2f3e3b40cccc9d670",
     "enhanced_repository": "enhansome/enhansome-coder-resources",
