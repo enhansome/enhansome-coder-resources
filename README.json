@@ -21,7 +21,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 501616,
+                "stars": 501902,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -48,7 +48,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84296,
+                "stars": 84309,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -81,10 +81,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-27T15:40:38Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29907,
+                "stars": 29910,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -116,7 +116,7 @@
                 "open_issues": 4,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14604,
+                "stars": 14605,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65232,
+            "stars": 65235,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -290,8 +290,8 @@
             "id": 22790488,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T11:53:09Z",
-            "open_issues": 117,
+            "last_commit": "2026-08-31T22:43:02Z",
+            "open_issues": 122,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
             "stars": 94637,
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:01:23.114Z",
+    "last_updated": "2026-09-01T12:31:22.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
