@@ -21,7 +21,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 502214,
+                "stars": 502565,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -48,7 +48,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84322,
+                "stars": 84337,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -80,11 +80,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-01T21:43:56Z",
+                "last_commit": "2026-09-02T12:42:51Z",
                 "open_issues": 11,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29917,
+                "stars": 29925,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -113,10 +113,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-31T12:51:12Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14607,
+                "stars": 14609,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -212,7 +212,7 @@
                 "open_issues": 54,
                 "owner": "JeffLi1993",
                 "repo": "springboot-learning-example",
-                "stars": 16556,
+                "stars": 16557,
                 "topics": [
                   "dubbo",
                   "elasticsearch",
@@ -252,7 +252,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65238,
+            "stars": 65239,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -291,10 +291,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T22:43:02Z",
-            "open_issues": 122,
+            "open_issues": 128,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94638,
+            "stars": 94636,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -386,7 +386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:04:25.166Z",
+    "last_updated": "2026-09-03T12:03:38.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
