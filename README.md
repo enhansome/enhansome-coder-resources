@@ -431,22 +431,22 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 > 【JavaGuide: Java学习+面试指南】
 >
 > \----------Snailclimb/JavaGuide: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-> <https://github.com/Snailclimb/JavaGuide> ⭐ 158,263 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-02
-> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 158,263 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-02
+> <https://github.com/Snailclimb/JavaGuide> ⭐ 158,282 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-02
+> 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 <https://github.com/Snailclimb/JavaGuide> ⭐ 158,282 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-02
 
 > 【awesome-java】
 >
 > \----------akullpp/awesome-java: A curated list of awesome frameworks, libraries and software for the Java programming language.
-> <https://github.com/akullpp/awesome-java> ⭐ 48,927 | 🐛 8 | 📅 2026-08-24
+> <https://github.com/akullpp/awesome-java> ⭐ 48,930 | 🐛 8 | 📅 2026-08-24
 > 作者将JAVA中那些最常用的第三方库按照分类整理成了一个列表。包含Ancients(古老，但常用的)，Bean Mapping，Build，Bytecode Manipulation，Code Analysis，Command-line Argument Parsers，Configuration，Continuous Integration，CSV，Database等等，简直是一本jiava第三方库大全，如果你对项目中应该使用哪一个库不确定，或希望选择几个库来做比较，都可以到awesome-java上进行参考。
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 502,874 | 🐛 106 | 📅 2026-09-02: Curated list of awesome lists(6w star+)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 503,144 | 🐛 106 | 📅 2026-09-02: Curated list of awesome lists(6w star+)
 
 * [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
 
-* [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,931 | 🐛 12 | 📅 2026-09-02：An awesome Data Science repository to learn and apply for real world problems.
+* [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) ⭐ 29,937 | 🐛 11 | 📅 2026-09-04：An awesome Data Science repository to learn and apply for real world problems.
 
-* [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,610 | 🐛 5 | 📅 2026-07-31: A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,613 | 🐛 5 | 📅 2026-07-31: A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 * [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) ⭐ 1,745 | 🐛 10 | 🌐 HTML | 📅 2022-12-17: Awesome resources for coding and learning: open source projects, websites, books e.g.
 
@@ -460,7 +460,7 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 
 #### 学习案例
 
-<https://github.com/JeffLi1993/springboot-learning-example> ⭐ 16,557 | 🐛 54 | 🌐 Java | 📅 2023-12-03
+<https://github.com/JeffLi1993/springboot-learning-example> ⭐ 16,558 | 🐛 54 | 🌐 Java | 📅 2023-12-03
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
 > 【99-Problems】
@@ -484,7 +484,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 > Strmen-java是一个字符串处理工具，你可以通过maven将它引入到项目中。除了Java本身的字符串处理方式外，我们还可以使用Apache Common Langs里的StringUtils来简化String的操作。但以上两种方式对于我们日常编程中最容易碰到的字符串处理来说，仍然显得有些不足。Strmen-java为我们提供了一个非常完整且强大的解决方案，使用它可以解决几乎所有字符串处理场景。
 
 > NullAway 是 Uber 开源的一款帮助你清除 Java 代码中的 NullPointerException（NPE）的工具，快速且实用。NullAway 类似于 Kotlin 和 Swift 语言中的基于类型的可空性检查，能显着提高开发人员的生产力，同时也满足高要求的安全检查需求。
-> <https://github.com/uber/NullAway> ⭐ 4,100 | 🐛 156 | 🌐 Java | 📅 2026-09-03
+> <https://github.com/uber/NullAway> ⭐ 4,103 | 🐛 156 | 🌐 Java | 📅 2026-09-05
 
 #### 框架
 
@@ -497,7 +497,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 ##### 微服务
 
 > Nacos是一个易于使用的平台，旨在实现动态服务发现，配置和服务管理。它可以帮助开发者轻松构建云本机应用程序和微服务平台。
-> <https://github.com/alibaba/nacos> ⭐ 33,345 | 🐛 190 | 🌐 Java | 📅 2026-09-04
+> <https://github.com/alibaba/nacos> ⭐ 33,346 | 🐛 190 | 🌐 Java | 📅 2026-09-04
 
 #### tools-代码生成器
 
@@ -546,7 +546,7 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 > 它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
 
 > Graal 是一个用 Java 编写的新的 JVM 即时编译器，集成到 HotSpot 虚拟机，侧重性能和语言互操作性。Graal 为 Java 代码提供性能优势，这得益于方法内联、流转对象分配和推理执行等新技术，从而可以实现高性能的脚本语言引擎。
-> <https://github.com/oracle/graal> ⭐ 21,684 | 🐛 846 | 🌐 Java | 📅 2026-09-04
+> <https://github.com/oracle/graal> ⭐ 21,685 | 🐛 849 | 🌐 Java | 📅 2026-09-05
 
 #### JVM语言
 
@@ -737,7 +737,7 @@ HanLP是由一系列模型与算法组成的Java工具包，目标是普及自�
 
 coderiver 中文名 河码，是一个为程序员和设计师提供项目协作的平台，类似程序员客栈，但主要目的是方便各细分领域人才之间技术交流，共同成长，多人协作完成项目。暂不涉及金钱交易。
 
-。。<https://github.com/kdn251/interviews> ⭐ 65,242 | 🐛 122 | 🌐 Java | 📅 2025-05-12 Star 30614
+。。<https://github.com/kdn251/interviews> ⭐ 65,239 | 🐛 122 | 🌐 Java | 📅 2025-05-12 Star 30614
 
 Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会碰到的问题以及答案。
 
@@ -745,16 +745,16 @@ Java工程师面试指南，里面涵盖几乎所有软件工程师面试时会�
 。。一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端，由于没有上线，只能在微信开发工具中测试运行
 。。<https://github.com/crossoverJie/JCSprout> ⭐ 26,844 | 🐛 45 | 🌐 Java | 📅 2024-05-21 Star 17084
 这是一个还处于萌芽阶段的 Java 核心知识库。分为常用集合、Java多线程、JVM、分布式相关、常用框架等内容
-。。<https://github.com/Snailclimb/JavaGuide> ⭐ 158,263 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-02 Star 14726
+。。<https://github.com/Snailclimb/JavaGuide> ⭐ 158,282 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-02 Star 14726
 这是一份Java学习指南，涵盖大部分Java程序员所需要掌握的核心知识
 
-。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,640 | 🐛 128 | 🌐 Java | 📅 2026-08-31 Star 42081
+。。<https://github.com/iluwatar/java-design-patterns> ⭐ 94,652 | 🐛 128 | 🌐 Java | 📅 2026-08-31 Star 42081
 Design patterns 是程序员在设计应用程序或系统时可用来解决常见问题的最佳实践手册。
-。。<https://github.com/macrozheng/mall> ⭐ 84,708 | 🐛 19 | 🌐 Java | 📅 2026-05-14 Star 3249
+。。<https://github.com/macrozheng/mall> ⭐ 84,713 | 🐛 19 | 🌐 Java | 📅 2026-05-14 Star 3249
 mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 
 。。<https://github.com/b3log/symphony> Star 8931
 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。分为社区版和商业版
-。。<https://github.com/eugenp/tutorials> ⭐ 37,324 | 🐛 27 | 🌐 Java | 📅 2026-09-04 Star 10447
+。。<https://github.com/eugenp/tutorials> ⭐ 37,323 | 🐛 29 | 🌐 Java | 📅 2026-09-04 Star 10447
 该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
 。。Arthas旨在帮助开发人员解决Java应用程序的生产问题，无需修改代码或重新启动服务器。有了Arthas，你就可以在不重新启动JVM或需要额外的代码更改的情况下实时地对问题进行故障排除。
 
@@ -871,7 +871,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ## 教程
 
-* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,693 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
+* [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science) ⭐ 208,731 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
 
 \==================================
 
@@ -1066,4 +1066,4 @@ Portable: being a **plain text format** you can read and edit it using any edito
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
