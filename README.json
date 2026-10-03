@@ -21,7 +21,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513542,
+                "stars": 513795,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!",
-              "description": null,
+              "description": "DopplerHQ/awesome-interview-questions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -48,7 +48,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84758,
+                "stars": 84771,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -80,11 +80,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:16:33Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-02T20:20:58Z",
+                "open_issues": 11,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30101,
+                "stars": 30103,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -153,7 +153,7 @@
                 "open_issues": 10,
                 "owner": "lyfeyaj",
                 "repo": "awesome-resources",
-                "stars": 1750,
+                "stars": 1751,
                 "topics": [
                   "algorithm",
                   "android",
@@ -252,7 +252,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65267,
+            "stars": 65264,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -294,7 +294,7 @@
             "open_issues": 133,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94757,
+            "stars": 94756,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -312,81 +312,40 @@
       "title": "22待整理"
     },
     {
-      "description": null,
+      "description": "==================================\n2019-1-24 10:33:24",
       "items": [
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "面试",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
-                "homepage": null,
-                "id": 97280276,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-01-01T05:12:40Z",
-                "open_issues": 1,
-                "owner": "yesky12",
-                "repo": "awesome-coder-resources",
-                "stars": 60,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "backend",
-                  "big-data",
-                  "bigdata",
-                  "books",
-                  "frontend",
-                  "interview",
-                  "java",
-                  "progamming",
-                  "resources"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:19.561Z"
-            }
-          ],
-          "description": null,
           "node_type": "item",
+          "title": "ossu/computer-science: Path to a free self-taught education in Computer Science!",
+          "description": "ossu/computer-science",
+          "children": [],
           "repo_info": {
             "archived": false,
-            "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
-            "homepage": null,
-            "id": 97280276,
-            "language": null,
-            "license": null,
-            "last_commit": "2020-01-01T05:12:40Z",
-            "open_issues": 1,
-            "owner": "yesky12",
-            "repo": "awesome-coder-resources",
-            "stars": 60,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
+            "id": 19415064,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 28,
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 209701,
             "topics": [
-              "awesome",
               "awesome-list",
-              "backend",
-              "big-data",
-              "bigdata",
-              "books",
-              "frontend",
-              "interview",
-              "java",
-              "progamming",
-              "resources"
+              "computer-science",
+              "courses",
+              "curriculum"
             ]
           },
-          "title": "面试",
-          "first_seen": "2026-08-28T19:23:19.561Z"
+          "first_seen": "2026-10-03T04:36:03.765Z"
         }
       ],
-      "title": "Overview"
+      "title": "教程"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:47:27.913Z",
+    "last_updated": "2026-10-03T04:36:03.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
