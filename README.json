@@ -21,7 +21,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 515371,
+                "stars": 515456,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -48,7 +48,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84827,
+                "stars": 84828,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -84,7 +84,7 @@
                 "open_issues": 12,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30111,
+                "stars": 30112,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -116,7 +116,7 @@
                 "open_issues": 6,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14660,
+                "stars": 14661,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -291,10 +291,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T02:56:28Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94758,
+            "stars": 94757,
             "topics": [
               "awesome-list",
               "design-patterns",
@@ -330,7 +330,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209900,
+            "stars": 209903,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:01.243Z",
+    "last_updated": "2026-10-06T14:07:26.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "编程路上加油站！------【持续更新中...欢迎star,欢迎常回来看看......】【内容：编程/学习/阅读资源，开源项目,面试题,网站,书,博客,教程等等】",
